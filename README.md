@@ -2,6 +2,8 @@
 
 > A date converter for blog posts in bloggy, a small and lightweight blog engine for node.js.
 
+([NPM link](https://www.npmjs.com/package/bloggy-moment))
+
 ## Quickstart
 
 That's everything you need. Just set the 'dateFormat' and 'dateLocale' settings in the engine setup and call the engine.extendWith() function of the bloggy engine.
