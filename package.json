@@ -1,6 +1,6 @@
 {
   "name": "bloggy-moment",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A date converter for blog posts in bloggy, a small and lightweight blog engine for node.js.",
   "main": "index.js",
   "scripts": {

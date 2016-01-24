@@ -11,8 +11,8 @@ exports.init = function (engine) {
             
             var options = engine.getOptions();
             var date = moment(entry.date);
-            date.locale(options.dateLocale);
-            var format = options.dateFormat;
+            date.locale(options.date.locale);
+            var format = options.date.format;
             entry.date = date.format(format);
 
             callback(transformedContent);
