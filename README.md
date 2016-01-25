@@ -1,4 +1,5 @@
 # bloggy-moment
+[![npm](https://img.shields.io/npm/dt/bloggy-moment.svg)]()
 
 > A date converter for blog posts in bloggy, a small and lightweight blog engine for node.js.
 
