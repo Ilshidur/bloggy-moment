@@ -1,10 +1,11 @@
 # bloggy-moment
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 [![npm](https://img.shields.io/npm/dt/bloggy-moment.svg)]()
 [![Known Vulnerabilities](https://snyk.io/test/npm/bloggy-moment/badge.svg)](https://snyk.io/test/npm/bloggy-moment)
 
-> A date converter for blog posts in bloggy, a small and lightweight blog engine for node.js.
+[![NPM](https://nodei.co/npm/bloggy-moment.png?downloads=true&downloadRank=true)](https://nodei.co/npm/bloggy-moment/)
 
-([NPM link](https://www.npmjs.com/package/bloggy-moment))
+> A date converter for blog posts in bloggy, a small and lightweight blog engine for node.js.
 
 ## Quickstart
 
