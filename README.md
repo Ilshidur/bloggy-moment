@@ -1,9 +1,14 @@
 # bloggy-moment
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-[![npm](https://img.shields.io/npm/dt/bloggy-moment.svg)]()
-[![Known Vulnerabilities](https://snyk.io/test/npm/bloggy-moment/badge.svg)](https://snyk.io/test/npm/bloggy-moment)
 
-[![NPM](https://nodei.co/npm/bloggy-moment.png?downloads=true&downloadRank=true)](https://nodei.co/npm/bloggy-moment/)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+[![npm version][version-badge]][version-url]
+[![Known Vulnerabilities][vulnerabilities-badge]][vulnerabilities-url]
+[![dependency status][dependency-badge]][dependency-url]
+[![devdependency status][devdependency-badge]][devdependency-url]
+[![downloads][downloads-badge]][downloads-url]
+
+[![NPM][npm-stats-badge]][npm-stats-url]
 
 > A date converter for blog posts in bloggy, a small and lightweight blog engine for node.js.
 
@@ -55,3 +60,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+[version-badge]: https://img.shields.io/npm/v/bloggy-moment.svg
+[version-url]: https://www.npmjs.com/package/bloggy-moment
+[vulnerabilities-badge]: https://snyk.io/test/npm/bloggy-moment/badge.svg
+[vulnerabilities-url]: https://snyk.io/test/npm/bloggy-moment
+[dependency-badge]: https://david-dm.org/ilshidur/bloggy-moment.svg
+[dependency-url]: https://david-dm.org/ilshidur/bloggy-moment
+[devdependency-badge]: https://david-dm.org/ilshidur/bloggy-moment/dev-status.svg
+[devdependency-url]: https://david-dm.org/ilshidur/bloggy-moment#info=devDependencies
+[downloads-badge]: https://img.shields.io/npm/dt/bloggy-moment.svg
+[downloads-url]: https://www.npmjs.com/package/bloggy-moment
+[npm-stats-badge]: https://nodei.co/npm/bloggy-moment.png?downloads=true&downloadRank=true
+[npm-stats-url]: https://nodei.co/npm/bloggy-moment
