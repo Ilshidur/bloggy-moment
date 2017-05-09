@@ -1,5 +1,6 @@
 # bloggy-moment
 
+![stability-stable](https://img.shields.io/badge/stability-stable-green.svg)
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 [![npm version][version-badge]][version-url]
